@@ -1,0 +1,7 @@
+{
+  "name": "planet-facts",
+  "version": "0.0.0",
+  "main": "facts.json",
+  "license": "MIT",
+  "repository": "LinusU/planet-facts"
+}
